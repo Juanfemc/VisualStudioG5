@@ -3,4 +3,4 @@ Creado por Juan Felipe Merchancano
 
 hola
 
-![no imagen](img/Captura.png) 
+![no imagen](img/Captura.PNG) 
